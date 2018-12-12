@@ -1,5 +1,6 @@
-E:\Codes\Multi Remote Desktop Client .NET\DataProtection\bin\Debug\DataProtection.dll
-E:\Codes\Multi Remote Desktop Client .NET\DataProtection\bin\Debug\DataProtection.pdb
-E:\Codes\Multi Remote Desktop Client .NET\DataProtection\obj\Debug\ResolveAssemblyReference.cache
-E:\Codes\Multi Remote Desktop Client .NET\DataProtection\obj\Debug\DataProtection.dll
-E:\Codes\Multi Remote Desktop Client .NET\DataProtection\obj\Debug\DataProtection.pdb
+D:\01-Project\15-MultiRDC.NET\sourceCode\DataProtection\bin\Debug\DataProtection.dll
+D:\01-Project\15-MultiRDC.NET\sourceCode\DataProtection\bin\Debug\DataProtection.pdb
+D:\01-Project\15-MultiRDC.NET\sourceCode\DataProtection\obj\Debug\DataProtection.csprojAssemblyReference.cache
+D:\01-Project\15-MultiRDC.NET\sourceCode\DataProtection\obj\Debug\DataProtection.csproj.CoreCompileInputs.cache
+D:\01-Project\15-MultiRDC.NET\sourceCode\DataProtection\obj\Debug\DataProtection.dll
+D:\01-Project\15-MultiRDC.NET\sourceCode\DataProtection\obj\Debug\DataProtection.pdb

@@ -1,10 +1,11 @@
-E:\Codes\Multi Remote Desktop Client .NET\CommonTools\bin\Debug\CommonTools.dll
-E:\Codes\Multi Remote Desktop Client .NET\CommonTools\bin\Debug\CommonTools.pdb
-E:\Codes\Multi Remote Desktop Client .NET\CommonTools\obj\Debug\ResolveAssemblyReference.cache
-E:\Codes\Multi Remote Desktop Client .NET\CommonTools\obj\Debug\CommonTools.ColorPickerCtrl.resources
-E:\Codes\Multi Remote Desktop Client .NET\CommonTools\obj\Debug\CommonTools.ColorPickerDialog.resources
-E:\Codes\Multi Remote Desktop Client .NET\CommonTools\obj\Debug\CommonTools.ColorWheelCtrl.resources
-E:\Codes\Multi Remote Desktop Client .NET\CommonTools\obj\Debug\CommonTools.PropertyDialog.resources
-E:\Codes\Multi Remote Desktop Client .NET\CommonTools\obj\Debug\CommonTools.csproj.GenerateResource.Cache
-E:\Codes\Multi Remote Desktop Client .NET\CommonTools\obj\Debug\CommonTools.dll
-E:\Codes\Multi Remote Desktop Client .NET\CommonTools\obj\Debug\CommonTools.pdb
+D:\01-Project\15-MultiRDC.NET\sourceCode\CommonTools\bin\Debug\CommonTools.dll
+D:\01-Project\15-MultiRDC.NET\sourceCode\CommonTools\bin\Debug\CommonTools.pdb
+D:\01-Project\15-MultiRDC.NET\sourceCode\CommonTools\obj\Debug\CommonTools.csprojAssemblyReference.cache
+D:\01-Project\15-MultiRDC.NET\sourceCode\CommonTools\obj\Debug\CommonTools.ColorPickerCtrl.resources
+D:\01-Project\15-MultiRDC.NET\sourceCode\CommonTools\obj\Debug\CommonTools.ColorPickerDialog.resources
+D:\01-Project\15-MultiRDC.NET\sourceCode\CommonTools\obj\Debug\CommonTools.ColorWheelCtrl.resources
+D:\01-Project\15-MultiRDC.NET\sourceCode\CommonTools\obj\Debug\CommonTools.PropertyDialog.resources
+D:\01-Project\15-MultiRDC.NET\sourceCode\CommonTools\obj\Debug\CommonTools.csproj.GenerateResource.cache
+D:\01-Project\15-MultiRDC.NET\sourceCode\CommonTools\obj\Debug\CommonTools.csproj.CoreCompileInputs.cache
+D:\01-Project\15-MultiRDC.NET\sourceCode\CommonTools\obj\Debug\CommonTools.dll
+D:\01-Project\15-MultiRDC.NET\sourceCode\CommonTools\obj\Debug\CommonTools.pdb

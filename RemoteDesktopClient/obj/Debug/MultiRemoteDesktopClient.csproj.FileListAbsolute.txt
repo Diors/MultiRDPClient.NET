@@ -1,45 +1,43 @@
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\bin\Debug\MultiRemoteDesktopClient.exe.config
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\bin\Debug\XMLInfoFile.xml
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\bin\Debug\MultiRemoteDesktopClient.exe
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\bin\Debug\MultiRemoteDesktopClient.pdb
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\bin\Debug\CommonTools.dll
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\bin\Debug\Database.dll
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\bin\Debug\DataProtection.dll
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\bin\Debug\LiveInformationBox.dll
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\bin\Debug\MsTscAxWrapper.dll
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\bin\Debug\MSTSCLib.dll
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\bin\Debug\RDPReader.dll
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\bin\Debug\RijndaelEncryptDecrypt.dll
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\bin\Debug\TextboxRequiredWrapper.dll
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\bin\Debug\Win32APIs.dll
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\bin\Debug\System.Data.SQLite.dll
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\bin\Debug\RijndaelEncryptDecrypt.pdb
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\bin\Debug\Win32APIs.pdb
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\bin\Debug\RDPReader.pdb
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\bin\Debug\LiveInformationBox.pdb
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\bin\Debug\DataProtection.pdb
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\bin\Debug\Database.pdb
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\bin\Debug\TextboxRequiredWrapper.pdb
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\bin\Debug\MsTscAxWrapper.pdb
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\bin\Debug\CommonTools.pdb
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\obj\Debug\ResolveAssemblyReference.cache
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.Controls.RDThumbnail.resources
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.ConfigurationWindow.resources
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.AboutWindow.resources
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.ExportWindow.resources
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.ImportWindow.resources
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.RdpClientWindow.resources
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.PasswordWindow.resources
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.GroupManagerWindow.resources
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.PopupMDIContainer.resources
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.Properties.Resources.resources
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.RemoteDesktopClient.resources
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.ServerSettingsWindow.resources
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.SplashScreenWindow.resources
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.RDThumbnailsWindow.resources
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.csproj.GenerateResource.Cache
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.exe
-E:\Codes\Multi Remote Desktop Client .NET\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.pdb
-E:\Codes\Windows Desktop\Multi Remote Desktop Client .NET\RemoteDesktopClient\bin\Debug\MultiRemoteDesktopClient.exe.config
-E:\Codes\Windows Desktop\Multi Remote Desktop Client .NET\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.exe
-E:\Codes\Windows Desktop\Multi Remote Desktop Client .NET\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.pdb
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\bin\Debug\XMLInfoFile.xml
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\bin\Debug\MultiRemoteDesktopClient.exe.config
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\bin\Debug\MultiRemoteDesktopClient.exe
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\bin\Debug\MultiRemoteDesktopClient.pdb
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\bin\Debug\CommonTools.dll
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\bin\Debug\Database.dll
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\bin\Debug\DataProtection.dll
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\bin\Debug\LiveInformationBox.dll
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\bin\Debug\MsTscAxWrapper.dll
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\bin\Debug\MSTSCLib.dll
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\bin\Debug\RDPReader.dll
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\bin\Debug\RijndaelEncryptDecrypt.dll
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\bin\Debug\TextboxRequiredWrapper.dll
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\bin\Debug\Win32APIs.dll
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\bin\Debug\CommonTools.pdb
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\bin\Debug\Database.pdb
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\bin\Debug\DataProtection.pdb
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\bin\Debug\LiveInformationBox.pdb
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\bin\Debug\MsTscAxWrapper.pdb
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\bin\Debug\RDPReader.pdb
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\bin\Debug\RijndaelEncryptDecrypt.pdb
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\bin\Debug\TextboxRequiredWrapper.pdb
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\bin\Debug\Win32APIs.pdb
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.csprojAssemblyReference.cache
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.Controls.RDThumbnail.resources
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.ConfigurationWindow.resources
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.AboutWindow.resources
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.ExportWindow.resources
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.ImportWindow.resources
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.RdpClientWindow.resources
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.PasswordWindow.resources
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.GroupManagerWindow.resources
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.PopupMDIContainer.resources
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.Properties.Resources.resources
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.RemoteDesktopClient.resources
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.ServerSettingsWindow.resources
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.SplashScreenWindow.resources
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.RDThumbnailsWindow.resources
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.csproj.GenerateResource.cache
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.csproj.CoreCompileInputs.cache
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.csproj.CopyComplete
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.exe
+D:\01-Project\15-MultiRDC.NET\sourceCode\RemoteDesktopClient\obj\Debug\MultiRemoteDesktopClient.pdb

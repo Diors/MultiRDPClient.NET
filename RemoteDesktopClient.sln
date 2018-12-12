@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestSuites", "TestSuites", "{57812010-5D0D-4B45-8615-6714E288E1C9}"
 EndProject
@@ -83,5 +83,8 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{4033ADD7-A6AB-4F39-98B0-339CB99965BD} = {57812010-5D0D-4B45-8615-6714E288E1C9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {213276E6-D702-4FE7-8AF9-E4FF32DB9452}
 	EndGlobalSection
 EndGlobal

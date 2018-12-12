@@ -1,6 +1,8 @@
-E:\Codes\Multi Remote Desktop Client .NET\MsTscAxWrapper\bin\Debug\MsTscAxWrapper.dll
-E:\Codes\Multi Remote Desktop Client .NET\MsTscAxWrapper\bin\Debug\MsTscAxWrapper.pdb
-E:\Codes\Multi Remote Desktop Client .NET\MsTscAxWrapper\bin\Debug\MSTSCLib.dll
-E:\Codes\Multi Remote Desktop Client .NET\MsTscAxWrapper\obj\Debug\ResolveAssemblyReference.cache
-E:\Codes\Multi Remote Desktop Client .NET\MsTscAxWrapper\obj\Debug\MsTscAxWrapper.dll
-E:\Codes\Multi Remote Desktop Client .NET\MsTscAxWrapper\obj\Debug\MsTscAxWrapper.pdb
+D:\01-Project\15-MultiRDC.NET\sourceCode\MsTscAxWrapper\bin\Debug\MsTscAxWrapper.dll
+D:\01-Project\15-MultiRDC.NET\sourceCode\MsTscAxWrapper\bin\Debug\MsTscAxWrapper.pdb
+D:\01-Project\15-MultiRDC.NET\sourceCode\MsTscAxWrapper\bin\Debug\MSTSCLib.dll
+D:\01-Project\15-MultiRDC.NET\sourceCode\MsTscAxWrapper\obj\Debug\MsTscAxWrapper.csprojAssemblyReference.cache
+D:\01-Project\15-MultiRDC.NET\sourceCode\MsTscAxWrapper\obj\Debug\MsTscAxWrapper.csproj.CoreCompileInputs.cache
+D:\01-Project\15-MultiRDC.NET\sourceCode\MsTscAxWrapper\obj\Debug\MsTscAxWrapper.csproj.CopyComplete
+D:\01-Project\15-MultiRDC.NET\sourceCode\MsTscAxWrapper\obj\Debug\MsTscAxWrapper.dll
+D:\01-Project\15-MultiRDC.NET\sourceCode\MsTscAxWrapper\obj\Debug\MsTscAxWrapper.pdb
